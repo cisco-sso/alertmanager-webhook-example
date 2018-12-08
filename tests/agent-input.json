@@ -1,0 +1,12 @@
+[{
+    "eventSeverity": "INFO",
+    "type": "Prometheus",
+    "summaryMessage": "Sample Alert from Prometheus",
+    "properties": {
+        "alert": "No special data provided"
+        },
+    "details": {
+        "alert": "Information Alert Only"
+        }
+}]
+
